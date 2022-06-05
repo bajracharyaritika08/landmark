@@ -1,1 +1,0 @@
-// This is new section called about us.
